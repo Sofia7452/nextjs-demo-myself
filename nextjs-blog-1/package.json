@@ -24,6 +24,6 @@
     "next-images": "^1.4.0",
     "prettier": "2.0.5",
     "typescript": "^3.9.3",
-    "ua-parser-js": "^0.7.21"
+    "ua-parser-js": "^0.7.24"
   }
 }
